@@ -1,2 +1,2 @@
 # aurascan-frontend
-aurascan-frontend
+aurascan-frontend.
