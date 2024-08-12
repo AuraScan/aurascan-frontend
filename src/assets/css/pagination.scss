@@ -1,0 +1,33 @@
+.pagination{
+    & li{
+        &.break a{
+            margin-top: -4px;
+        }
+        &.active A{
+            background: var(--color-blueE8);
+            // border: solid 1px #0d6efd;
+            border-radius: 2px;
+            color: var(--link-color);
+        }
+        & A{
+            min-width: 36px;
+            height: 36px;
+            font-size: 14px;
+            color: var(--color-black4E) !important;
+            padding-left: 10px;
+            padding-right: 10px;
+                
+                DISPLAY: INHERIT;
+                margin-left: 5px;
+                text-align: center;
+                
+                &:hover{
+                    color: var(--link-color) !important;
+                    // background:rgba($color: #0d6efd, $alpha: 0.2) ;
+                }
+        }
+
+        &:first-child {}
+    }
+        
+}

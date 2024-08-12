@@ -1,0 +1,32 @@
+.address-content{
+    &-label{
+        width: 160px;
+        display: inline-block;
+    }
+        &-info{
+            font-size: 14px;
+            font-weight: 550;
+        }
+        .status_title{
+            font-size: 12px;
+            padding: 0.1rem .3rem;
+            margin-right: 10px;
+        }
+    .favorite{
+        cursor: pointer;
+        margin-left: 5px;
+        .iconfont{
+            font-size: 16px !important;
+        }
+    }
+	.chart-box{
+		padding: 20px;
+		&-title{
+			font-size: 16px;
+			
+		}
+	}  
+    .margin-right-5{
+        margin-right: 1rem;
+    }      
+}

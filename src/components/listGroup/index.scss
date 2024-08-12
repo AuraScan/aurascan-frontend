@@ -1,0 +1,29 @@
+.content {
+    width: 100%;
+    overflow:hidden;
+    .mycontainer{
+        display: flex;
+    }
+    &-label {
+        width: 160px;
+        overflow: hidden;
+        display: inline-block;
+    }
+
+    &-info {
+        flex: 1;
+        font-size: 14px;
+        font-weight: 550;
+        max-width: 900px;
+        /* 使用 word-wrap */
+        word-wrap: break-word;
+            /* 或者使用 overflow-wrap */
+        overflow-wrap: break-word;
+            /* 设置容器宽度，超过该宽度时文字会自动换行 */
+            // width: 300px;
+            /* 添加一些其他样式，如边框和内边距 */
+            // border: 1px solid #ddd;
+            padding: 10px;
+    }
+
+}

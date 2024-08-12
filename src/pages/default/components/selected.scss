@@ -1,0 +1,15 @@
+.selected-list{
+    .btn-group > .btn{
+        background-color: var(--color-grayF3);
+        border: var(--color-grayF3) solid 5px;
+        // margin: 5px;
+        line-height: 10px;
+        padding: 0.275rem;
+    }
+    .btn-check:checked + .btn{
+        background-color: var(--select-bgColor);
+        border: var(--color-grayF3) solid 5px;
+    }
+
+    
+}

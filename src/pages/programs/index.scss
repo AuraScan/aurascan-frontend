@@ -1,0 +1,27 @@
+.programDetail {
+    .tab_box{
+        background: #fff;
+    }
+}
+.deployContent{
+    .nav-tabs{
+        border-bottom: none;
+
+        .nav-link{
+            font-size: 0.875rem;
+            border: solid var(--border-color) 1px !important;
+            border-radius: 0.02rem;
+            &.active{
+                border: solid var(--primary) 1px !important;
+                background-color: var(--primary) !important;
+                border-radius: 0.02rem;
+                color: #fff;
+            }
+        }
+    }
+    .tab-content{
+        .btn{font-size: 0.725rem; color: #fff;font-weight: 700;}
+        .form-control{font-size: 0.725rem;}
+    }
+
+}

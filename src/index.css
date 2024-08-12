@@ -1,0 +1,19 @@
+html{
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif, Helvetica Neue, Helvetica, Microsoft Yahei, Hiragino Sans GB, Heiti SC, WenQuanYiMicro Hei;
+  line-height:1.5;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--main-bg-color);
+  font-size: var(--font-size);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.basic-title{
+  font-size: var(--font-size);
+}

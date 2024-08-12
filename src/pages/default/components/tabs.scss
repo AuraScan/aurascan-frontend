@@ -1,0 +1,34 @@
+.tab-setting{
+    padding: 0 15px;
+    .tab-menu {
+        .nav-item a {
+                font-size: 12px;
+            }
+    }
+
+    .tab-content {
+        padding-top: 0px;
+    }
+
+    .nav-pills .nav-link {
+        padding: 4px 15px;
+        border: #e2e8f0 solid 1px;
+        color: #606266;
+        border-radius: 20px;
+        margin-right: 15px;
+        &:hover{
+            color: #fff;
+            background: #ecf5ff;
+            border-color: #b3d8ff;
+        }
+
+        &.active {
+                color: #409eff;
+                background: #ecf5ff;
+                border-color: #b3d8ff;
+            }
+    }
+}
+
+
+

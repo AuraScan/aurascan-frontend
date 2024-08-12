@@ -1,0 +1,32 @@
+.basic_table{
+    font-size: 13px;
+    // font-family: DINPro-Medium, DINPro;
+    // font-weight: 550 !important;
+    color: var(--font-color);
+    .num_box {
+            min-width: 25px;
+            font-weight: 700 !important;
+            font-size: .6875rem !important;
+            // font-family: DINPro-Bold;
+        }
+    .btn_box{
+        border-radius: 25px;
+        padding: 2px 15px;
+        font-weight: 550;
+    }
+    .expanded-box{
+        background: #f7f7f7;
+        .content {
+            background: #f7f7f7;
+            border: none;
+    
+            .list-group-item {
+                background: #f7f7f7;
+            }
+        }
+    }
+
+}
+--font-color{
+    color: #000;
+}
