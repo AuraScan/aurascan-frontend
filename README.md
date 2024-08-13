@@ -3,8 +3,18 @@ AuraScan(https://aurascan.xyz/) is a blockchain explorer on the Aleo network, en
 
 # Key Features of Aurascan
 ## Provide data applications based on various scenarios
+![001](https://github.com/user-attachments/assets/9ad63869-474a-4b8a-b5bf-43e65f197e81)
 
-## 
+##  Provide data 
+![002](https://github.com/user-attachments/assets/c6fe18f8-0608-40d2-910e-2bbaa6c7870e)
+
+##  Provide data 
+![003](https://github.com/user-attachments/assets/3fcf24cf-4653-4e95-bee0-896d21f8ff2c)
+
+##  Provide data 
+![004](https://github.com/user-attachments/assets/307d9fbe-82d1-45b2-8d3e-fa0f4cde41c8)
+
+##  Provide data 
 
 # Front-End
 ## Install
